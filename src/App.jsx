@@ -1,4 +1,4 @@
-import Qr from "./qr";
+import Qr from "./Qr";
 function App() {
   return <Qr />;
 }
